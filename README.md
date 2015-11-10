@@ -1,2 +1,2 @@
-# example-php
-PHP Example application to be integrated with Mangeacloud
+# continuous-deployment-demo
+Continuous Deployment demo using blue green deployments and immutable infrastructure
